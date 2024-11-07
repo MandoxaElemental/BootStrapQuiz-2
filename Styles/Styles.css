@@ -1,0 +1,18 @@
+:root{
+    --dark-red: #5f002b;
+    --light-brown: #f2e9d9;
+    --light: #ffffff;
+    --red: #980051;
+}
+
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+body{
+    margin: 5;
+}
